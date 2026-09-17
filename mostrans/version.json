@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "1.7.2",
+  "versionCode": 14,
+  "versionName": "1.8.0",
   "title": "Доступно обновление",
-  "notes": "Что нового в MosTrans base 1.7.2:\n• Настройки: категории Цены / База участников / Профиль\n• Тёмный градиент сверху карты\n• Ограничение распространения «МосТранс + Верби» показывается при первом запуске после каждого обновления",
-  "apkUrl": "https://raw.githubusercontent.com/WerbyCX4/-/main/mostrans/MosTrans-base-1.7.2.apk",
+  "notes": "Что нового в MosTrans base 1.8.0:\n• Мягкий фон: опрос ~15 мин при сети (без цепочек и FGS-спама)\n• BootReceiver: перепланирование + один немедленный опрос после перезагрузки\n• Рассылки по никнейму профиля; ранний запрос уведомлений\n• Настоящий realtime — только с FCM позже; сейчас аккуратный polling",
+  "apkUrl": "https://raw.githubusercontent.com/WerbyCX4/-/main/mostrans/MosTrans-base-1.8.0.apk",
   "force": false
 }
