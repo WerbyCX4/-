@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "1.8.0",
+  "versionCode": 15,
+  "versionName": "1.8.1",
   "title": "Доступно обновление",
-  "notes": "Что нового в MosTrans base 1.8.0:\n• Мягкий фон: опрос ~15 мин при сети (без цепочек и FGS-спама)\n• BootReceiver: перепланирование + один немедленный опрос после перезагрузки\n• Рассылки по никнейму профиля; ранний запрос уведомлений\n• Настоящий realtime — только с FCM позже; сейчас аккуратный polling",
-  "apkUrl": "https://raw.githubusercontent.com/WerbyCX4/-/main/mostrans/MosTrans-base-1.8.0.apk",
+  "notes": "Что нового в MosTrans base 1.8.1:\n• Cache-bust и no-cache для опросов GitHub raw (version/notifications/team)\n• Рассылки видны в приложении даже без разрешения на уведомления\n• Кнопка «Проверить рассылки сейчас»\n• Фон по-прежнему мягкий (~15 мин)",
+  "apkUrl": "https://raw.githubusercontent.com/WerbyCX4/-/main/mostrans/MosTrans-base-1.8.1.apk",
   "force": false
 }
