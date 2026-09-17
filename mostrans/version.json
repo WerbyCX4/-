@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.6.0",
+  "versionCode": 13,
+  "versionName": "1.7.2",
   "title": "Доступно обновление",
-  "notes": "Что нового в MosTrans base 1.6.0:\n• Переименование: MosTrans base (лаунчер без версии)\n• Регистрация: никнейм + телефон, стабильный deviceId\n• «Команда»: team.json без дубликатов по нику (последний updatedAt)\n• «Уведомить»: всем или выбранному; локальная очередь + Sync Base URL\n• Cloudflare Worker sync-worker/ для бесплатного POST → GitHub\n• Формат: Говорит \"ник\": сообщение; фильтр to=* или мой ник\n• Живые обновления 1.5.0 сохранены",
-  "apkUrl": "https://raw.githubusercontent.com/WerbyCX4/-/main/mostrans/MosTrans-base-1.6.0.apk",
+  "notes": "Что нового в MosTrans base 1.7.2:\n• Настройки: категории Цены / База участников / Профиль\n• Тёмный градиент сверху карты\n• Ограничение распространения «МосТранс + Верби» показывается при первом запуске после каждого обновления",
+  "apkUrl": "https://raw.githubusercontent.com/WerbyCX4/-/main/mostrans/MosTrans-base-1.7.2.apk",
   "force": false
 }
