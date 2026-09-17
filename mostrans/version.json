@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.4.0",
+  "versionCode": 10,
+  "versionName": "1.6.0",
   "title": "Доступно обновление",
-  "notes": "Что нового в этой версии:\n• Устранены дёрганья шторки и карты (spring, карта без resize)\n• Оптимизация: R8 minify, OkHttp pool/timeouts, точечные оверлеи\n• Базовая защита: подпись APK, debugger/root/hook hints, GitHub HTTPS allowlist\n• Тесты тарифа, allowlist URL и тем\n• Карта HOT / OSRM / обновления как раньше",
-  "apkUrl": "https://raw.githubusercontent.com/WerbyCX4/-/main/mostrans/MosTrans-calculator-debug.apk",
+  "notes": "Что нового в MosTrans base 1.6.0:\n• Переименование: MosTrans base (лаунчер без версии)\n• Регистрация: никнейм + телефон, стабильный deviceId\n• «Команда»: team.json без дубликатов по нику (последний updatedAt)\n• «Уведомить»: всем или выбранному; локальная очередь + Sync Base URL\n• Cloudflare Worker sync-worker/ для бесплатного POST → GitHub\n• Формат: Говорит \"ник\": сообщение; фильтр to=* или мой ник\n• Живые обновления 1.5.0 сохранены",
+  "apkUrl": "https://raw.githubusercontent.com/WerbyCX4/-/main/mostrans/MosTrans-base-1.6.0.apk",
   "force": false
 }
