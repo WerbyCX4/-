@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "1.9.3",
+  "versionCode": 20,
+  "versionName": "1.9.4",
   "title": "Доступно обновление",
-  "notes": "Что нового в MosTrans base 1.9.3:\n• Исправлен краш при быстром сворачивании/возврате (карта)\n• Живой трекинг «Моё место» (GPS/сеть, пауза в фоне)\n• Переключатель «Трекинг» и точность ±м\n• Фон по-прежнему мягкий (~15 мин)",
-  "apkUrl": "https://raw.githubusercontent.com/WerbyCX4/-/main/mostrans/MosTrans-base-1.9.3.apk",
+  "notes": "Что нового в MosTrans base 1.9.4:\n• С любой старой версии — сразу актуальная одним APK (промежуточные качать не нужно; skip-ahead)\n• Диалог обновления явно говорит: одним файлом, без очереди промежуточных\n• Сводка Changelog по всем пропущенным версиям\n• Рассылки update-*: только самая новая; старые без уведомления\n• Фон по-прежнему мягкий (~15 мин)",
+  "apkUrl": "https://raw.githubusercontent.com/WerbyCX4/-/main/mostrans/MosTrans-base-1.9.4.apk",
   "force": false
 }
