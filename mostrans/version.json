@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "1.9.2",
+  "versionCode": 19,
+  "versionName": "1.9.3",
   "title": "Доступно обновление",
-  "notes": "Что нового в MosTrans base 1.9.2:\n• Hotfix: устранение crash loop «приложение недоступно»\n• Подпись sideload больше не считается поломкой\n• Безопасная загрузка справочника городов и геолокации\n• Если зависло — обновите APK или очистите данные приложения",
-  "apkUrl": "https://raw.githubusercontent.com/WerbyCX4/-/main/mostrans/MosTrans-base-1.9.2.apk",
+  "notes": "Что нового в MosTrans base 1.9.3:\n• Исправлен краш при быстром сворачивании/возврате (карта)\n• Живой трекинг «Моё место» (GPS/сеть, пауза в фоне)\n• Переключатель «Трекинг» и точность ±м\n• Фон по-прежнему мягкий (~15 мин)",
+  "apkUrl": "https://raw.githubusercontent.com/WerbyCX4/-/main/mostrans/MosTrans-base-1.9.3.apk",
   "force": false
 }
