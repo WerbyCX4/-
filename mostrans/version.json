@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "1.9.0",
+  "versionCode": 17,
+  "versionName": "1.9.1",
   "title": "Доступно обновление",
-  "notes": "Что нового в MosTrans base 1.9.0:\n• Автодополнение адресов: Photon + запасной Nominatim\n• Мгновенные подсказки городов РФ (локальный справочник)\n• Подсказки типа: Город / Посёлок / Район / Улица\n• Фон по-прежнему мягкий (~15 мин)",
-  "apkUrl": "https://raw.githubusercontent.com/WerbyCX4/-/main/mostrans/MosTrans-base-1.9.0.apk",
+  "notes": "Что нового в MosTrans base 1.9.1:\n• Исправлено определение «Моё место»: активный GPS/сеть (не только lastKnown)\n• Подсказки про включение геолокации и таймаут\n• Без Google Play Services; фон по-прежнему мягкий (~15 мин)",
+  "apkUrl": "https://raw.githubusercontent.com/WerbyCX4/-/main/mostrans/MosTrans-base-1.9.1.apk",
   "force": false
 }
