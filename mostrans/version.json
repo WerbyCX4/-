@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "1.10.0",
+  "versionCode": 22,
+  "versionName": "1.11.0",
   "title": "Доступно обновление",
-  "notes": "Что нового в MosTrans base 1.10.0:\n• История на главном: иконка часов у настроек / моего места\n• Недавние маршруты и адреса — восстановить, удалить, очистить (до 50)\n• Откуда/Куда: «Местоположение» (GPS) или «Адрес» (поиск + тап)\n• Автосохранение после успешного маршрута\n• С любой старой версии — сразу актуальная одним APK",
-  "apkUrl": "https://raw.githubusercontent.com/WerbyCX4/-/main/mostrans/MosTrans-base-1.10.0.apk",
+  "notes": "Что нового в MosTrans base 1.11.0:\n• Улучшения стабильности\n• Оптимизация фоновых проверок обновлений и рассылок\n• Мелкие исправления\n• С любой старой версии — сразу актуальная одним APK",
+  "apkUrl": "https://raw.githubusercontent.com/WerbyCX4/-/main/mostrans/MosTrans-base-1.11.0.apk",
   "force": false
 }
